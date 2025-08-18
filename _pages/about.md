@@ -12,14 +12,7 @@ profile:
     <p><span class="font-weight-bold">McMaster</span></p>
     <p>W Booth School of Engineering Practice & Technology, McMaster University,</p>
     <p>1280 Main Street West, Hamilton,</p>
-    <p>Ontario, Canada, L8S 4L7</p><br>
-
-    <p><span class="font-weight-bold">PMU</span></p>
-    <p>Professor, College of Computer Enegineering & Science (CCES),</p>
-    <p>Prince Mohammad Bin Fahd University,</p>
-    <p>P.O. Box 1664, Al Khobar 31952,</p>
-    <p>Kingdom of Saudi Arabia,</p>
-    <p>Office: F014 | Tel: +966-13-849-4303</p>
+    <p>Ontario, Canada, L8S 4L7</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -35,10 +28,32 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Experienced Professor with a demonstrated history of working in the higher education industry. Have an excellent record of teaching at the undergraduate and post-graduate levels, including lecture planning and delivery, curriculum development, and course material development. Taught computer science & engineering courses at both undergraduate and graduate levels. Supervised 9 PhD, over 75 MS/MPhil theses and several BS final year projects. Honored with Best Teaching Awards several times. Published 100+ articles in international journals and conference proceedings (check my Google Scholar, Microsoft Academic and ACM Profile website links). Skilled in Computer Science, Machine Learning, Computer Vision, Computational Intelligence, Java/C/C++/Python, Matlab, Android/iOS App Development and LaTeX. Strong academic credentials with a PhD degree from Imperial College London. Have been active member of university accreditation committees including ABET (KSU), PEC (GIKI), HEC (FAST). Have demonstrated organizational and mentoring skills by taking active roles in departmental and university committees including academic council, hiring committees, student affairs committees and graduate school committees. Have been part of Scientific and Organizing committees of several IEEE/ACM and other international conferences. Also on the editorial and reviewer's list of several reputed (Elsevier/Springer/IEEE/ACM) journals.
+### 👋 Hello World! I'm Anwar Mirza  
+**🤖 Professor | AI & Machine Learning Researcher | Open-Source Contributor**  
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+📚 **Teaching:** Instructor for **Deep Learning, AI, Machine Learning and Computer Vision** — helping students and professionals bridge theory and real-world AI deployment.  
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+🔭 **Building:** Scalable AI systems, LLM applications, and open-source NLP tools.  
+🌱 **Learning:** Advanced model optimization, Neuro-Fuzzy Systems, Genetic Programming. 
+💡 **Interests:** LLM Systems, DL for Computer Vision, and AI for social impact.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+💡 **Courses & Workshops:**  
+   - *Deep Learning* (TensorFlow/PyTorch)  
+   - *Machine Learning* (Hands-on with ScikitLearn)  
+   - *Computer Vision* (Hands-on with OpenCV)  
+   - *LLMs in Production* (Model serving, orchestration, and optimization)  
+   - *Ethics in Generative AI* (Bias mitigation, alignment, and societal impact)  
+
+💬 **Ask me about:** NLP, TensorFlow/PyTorch, ScikitLearn, teaching AI/ML, or how to fine-tune models efficiently!  
+📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/anwarmmirza/) | [Email](mailto:your-email@example.com)  
+⚡ **Fun fact:** I use AI to transform photographs into paintings!  
+
+**🛠️ Tech Stack:**  
+`Python` `PyTorch` `TensorFlow` `Hugging Face` `ScikitLearn` `LaTeX`  
+
+**🎓 Teaching Philosophy:**  
+> *"Demystifying AI through hands-on, systems-first learning—because the best models are useless without scalable deployment."*  
+
+**🔗 Projects & Contributions:**  
+- 🚀 [Project Name]: Brief description (link to repo/demo)  
+- 📚 Contributed to [Library Name] (e.g., HF Transformers, LangChain)  
