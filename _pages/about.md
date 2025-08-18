@@ -12,9 +12,9 @@ profile:
     <p><span class="font-weight-bold">McMaster</span></p>
     <p>W Booth School of Engineering Practice & Technology, McMaster University,</p>
     <p>1280 Main Street West, Hamilton,</p>
-    <p>Ontario, Canada, L8S 4L7</p>
+    <p>Ontario, Canada, L8S 4L7</p><br>
 
-    <p><span class="font-weight-bold">PMU Office</span></p>
+    <p><span class="font-weight-bold">PMU</span></p>
     <p>Professor, College of Computer Enegineering & Science (CCES),</p>
     <p>Prince Mohammad Bin Fahd University,</p>
     <p>P.O. Box 1664, Al Khobar 31952,</p>
