@@ -9,7 +9,7 @@ profile:
   image: anwarProfilePic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>W Booth School of Engineering Practice \& Technology</p>
+    <p>W Booth School of Engineering Practice & Technology</p>
     <p>McMaster University, 1280 Main Street West</p>
     <p>Hamilton, ON, Canada, L8S 4L7</p>
 
