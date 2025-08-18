@@ -9,15 +9,16 @@ profile:
   image: anwarProfilePic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><b>McMaster</b></p>
+    <p><span class="font-weight-bold">McMaster</span></p>
     <p>W Booth School of Engineering Practice & Technology, McMaster University,</p>
     <p>1280 Main Street West, Hamilton,</p>
     <p>Ontario, Canada, L8S 4L7</p>
-    <p><b>PMU Office</b></p>
-    <p>Professor, College of Computer Enegineering & Science,</p>
-    <p>Prince Mohammad Bin Fahd University (PMU),</p>
+
+    <p><span class="font-weight-bold">PMU Office</span></p>
+    <p>Professor, College of Computer Enegineering & Science (CCES),</p>
+    <p>Prince Mohammad Bin Fahd University,</p>
     <p>P.O. Box 1664, Al Khobar 31952,</p>
-    <p>Kingdom of Saudi Arabia</p>
+    <p>Kingdom of Saudi Arabia,</p>
     <p>Office: F014 | Tel: +966-13-849-4303</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
