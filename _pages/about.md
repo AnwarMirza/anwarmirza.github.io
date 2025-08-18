@@ -27,25 +27,30 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
+<!-- 
 ### 👋 Hello World! I'm Anwar Mirza  
 **🤖 Professor | AI & Machine Learning Researcher | Open-Source Contributor**  
+--->
 
 📚 **Teaching:** Instructor for **Deep Learning, AI, Machine Learning and Computer Vision** — helping students and professionals bridge theory and real-world AI deployment.  
 
 🔭 **Building:** Scalable AI systems, LLM applications, and open-source NLP tools.  
-🌱 **Learning:** Advanced model optimization, Neuro-Fuzzy Systems, Genetic Programming. 
+
+🌱 **Learning:** Advanced model optimization, Neuro-Fuzzy Systems, Intelligently Designed Perceptually Shaped Watermarks.
+
 💡 **Interests:** LLM Systems, DL for Computer Vision, and AI for social impact.
 
 💡 **Courses & Workshops:**  
    - *Deep Learning* (TensorFlow/PyTorch)  
    - *Machine Learning* (Hands-on with ScikitLearn)  
    - *Computer Vision* (Hands-on with OpenCV)  
-   - *LLMs in Production* (Model serving, orchestration, and optimization)  
+   - *Artificial Intelligence & Machine Learning*
    - *Ethics in Generative AI* (Bias mitigation, alignment, and societal impact)  
 
 💬 **Ask me about:** NLP, TensorFlow/PyTorch, ScikitLearn, teaching AI/ML, or how to fine-tune models efficiently!  
+
 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/anwarmmirza/) | [Email](mailto:your-email@example.com)  
+
 ⚡ **Fun fact:** I use AI to transform photographs into paintings!  
 
 **🛠️ Tech Stack:**  
