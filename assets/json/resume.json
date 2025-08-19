@@ -30,13 +30,16 @@
       "startDate": "2015-01-01",
       "endDate": "to date",
       "summary": "Teaching at W Booth School of Engineering and other departments of McMaster). While not a at McMaster, I associated with the PMU to give lectures on campus.",
+      "highlights": ["AI, Deep Learning, Machine Learning, Computer Vision, and Natural Language Processing"]
+    },
+    {
       "name": "College of Computer Engineering & Science, Prince Muhammad Bin Fahd University",
       "position": "Professor",
       "url": "https://www.pmu.edu.sa/",
       "startDate": "2024-08-01",
       "endDate": "to date",
       "summary": "Teaching at the College of Engineering and Science of PMU).",
-      "highlights": ["AI, Deep Learning, Machine Learning, Computer Vision, and Natural Language Processing"]
+      "highlights": ["AI, Machine Learning, Computer Vision, and Natural Language Processing"]
     }
   ],
   "volunteer": [
