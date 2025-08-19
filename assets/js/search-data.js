@@ -532,6 +532,13 @@ ninja.data = [{
           window.open("https://ieeexplore.ieee.org/author/ieeexplore.ieee.org/author/37286059000/", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/anwarmmirza/?originalSubdomain=ca", "_blank");
+        },
+      },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
