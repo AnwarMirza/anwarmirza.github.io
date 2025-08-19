@@ -3,10 +3,10 @@
     "name": "Anwar Mirza",
     "label": "Processor | AI & Machine Learning Researcher",
     "image": "",
-    "email": "amirza at pmu dot ed dot sa",
+    "email": "mirzaa24 at mcmaster dot ca",
     "phone": "+1-xxx-xxx-xxxx",
     "url": "https://anwarmirza.github.io/",
-    "summary": "A Pakistan-born AI Researcher and Professor, with over 25 years of experience in the fields of AI, Machine Learning, and Computer Science. I have a strong background in developing innovative solutions and leading research projects that push the boundaries of technology.",
+    "summary": "An AI Researcher and Professor of Computer Engineering and Science, with over 25 years of experience in the fields of AI, Machine Learning, and Computer Science. I have a strong background in developing innovative solutions and leading research projects that push the boundaries of technology.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -30,6 +30,12 @@
       "startDate": "2015-01-01",
       "endDate": "to date",
       "summary": "Teaching at W Booth School of Engineering and other departments of McMaster). While not a at McMaster, I associated with the PMU to give lectures on campus.",
+      "name": "College of Computer Engineering & Science, Prince Muhammad Bin Fahd University",
+      "position": "Professor",
+      "url": "https://www.pmu.edu.sa/",
+      "startDate": "2024-08-01",
+      "endDate": "to date",
+      "summary": "Teaching at the College of Engineering and Science of PMU).",
       "highlights": ["AI, Deep Learning, Machine Learning, Computer Vision, and Natural Language Processing"]
     }
   ],
