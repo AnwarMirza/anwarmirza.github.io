@@ -41,11 +41,12 @@ latest_posts:
 💡 **Interests:** LLM Systems, DL for Computer Vision, and AI for social impact.
 
 💡 **Courses & Workshops:**  
-   - *Deep Learning* (TensorFlow/PyTorch)  
-   - *Machine Learning* (Hands-on with ScikitLearn)  
-   - *Computer Vision* (Hands-on with OpenCV)  
-   - *Artificial Intelligence & Machine Learning*
-   - *Ethics in Generative AI* (Bias mitigation, alignment, and societal impact)  
+
+- *Deep Learning* (TensorFlow/PyTorch)  
+  - *Machine Learning* (Hands-on with ScikitLearn)  
+  - *Computer Vision* (Hands-on with OpenCV)  
+  - *Artificial Intelligence & Machine Learning*
+  - *Ethics in Generative AI* (Bias mitigation, alignment, and societal impact)  
 
 💬 **Ask me about:** NLP, TensorFlow/PyTorch, ScikitLearn, teaching AI/ML, or how to fine-tune models efficiently!  
 
@@ -60,5 +61,6 @@ latest_posts:
 > *"Demystifying AI through hands-on, systems-first learning—because the best models are useless without scalable deployment."*  
 
 **🔗 Projects & Contributions:**  
+
 - 🚀 [Project Name]: Brief description (link to repo/demo)  
 - 📚 Contributed to [Library Name] (e.g., HF Transformers, LangChain)  
