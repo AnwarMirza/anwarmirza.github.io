@@ -1,3 +1,12 @@
+# YAML configuration for a CV
+# This file contains the CV data in YAML format.
+# The sections will be displayed in the order they are defined here.  
+# Each section can have a title, type, and contents.
+# The type can be 'map', 'time_table', 'nested_list', or 'list.
+# The contents can be a list of items, each with a title, institution, year,
+# description, or other relevant information.
+# The 'description' field can contain a list of strings or nested items.
+# The 'items' field can contain a list of strings or nested items.
 - title: General Information
   type: map
   contents:
