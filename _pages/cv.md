@@ -8,6 +8,14 @@ cv_pdf: example_pdf.pdf # you can also use external links here
 description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
 toc:
   sidebar: left
+General Information:
+  Full Name: Anwar Mirza
+  Date of Birth: 18th August 1965
+  Languages: English, Punjabi, Urdu
+  Location: Toronto, Canada
+  Phone: +1 (xxx) xxx-xxxx
+  Email: amirza at pmu dot edu dot sa
+
 ---
 
 - title: General Information
